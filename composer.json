@@ -1,0 +1,20 @@
+{
+    "name": "spliced/php-meid-converter",
+    "description": "PHP MEID Converter",
+    "type" : "library",
+    "license": "GPL",
+    "homepage": "http://www.splicedmedia.com",
+    "authors": [
+        {
+            "name": "Gassan Idriss",
+            "email": "ghassani@splicedmedia.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Spliced\\": "src/" }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
