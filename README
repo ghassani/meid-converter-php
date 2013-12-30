@@ -3,4 +3,5 @@ PHP MEID/ESN/IMEI Converter
 
 Converts from/to HEX,DEC any Valid ESN, MEID, or CDMA Based IMEI
 
+This is an in development version adding PHP 5.3 namespaces and a more OOP approach. Please use 1.0 branch for current tested version
 
